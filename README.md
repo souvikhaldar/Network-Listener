@@ -12,10 +12,12 @@ Use `Postman`:
 ![](2020-01-23-15-11-45.png)   
 
   
-  
+
 
 or, Use `curl`:  
-![](2020-01-23-15-12-42.png)
+![](2020-01-23-15-12-42.png)  
+
+**Source**: https://docs.python.org/3/howto/sockets.html
 
 
 
