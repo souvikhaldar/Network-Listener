@@ -1,10 +1,10 @@
 import socket,sys
 
 if len(sys.argv) > 1:
-    listener_port = sys.argv[1]
+    listener_port = int(sys.argv[1])
 else:
     listener_port = 7005
-    
+
 print("Listener is running on port: ",listener_port)
 
 # create a socket which can deal with IPv4 (AF_INET) address
